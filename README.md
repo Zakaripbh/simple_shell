@@ -1,12 +1,12 @@
 # Simple Shell
 
-### Introduction
+### Introduction.
 This is a simple UNIX Command Line Intepreter that copies the functionalities of shell (sh).
 
-### Installation
+### Installation.
 Clone this repository into your working directory. Files should be compiled with GCC
 
-### General Requirements
+### General Requirements.
 1.Allowed editors: vi, vim, emacs
 
 2.All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -17,7 +17,8 @@ Clone this repository into your working directory. Files should be compiled with
 
 5.Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
-6.Your shell should not have any memory leaks
+
+6.Your shell should not have any memory leaks.
 
 7.No more than 5 functions per file.
 
@@ -25,7 +26,7 @@ Clone this repository into your working directory. Files should be compiled with
 
 9.Use system calls only when you need to (why?)
 
-### Features
+### Features.
 1. Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 2. The prompt is displayed again each time a command has been executed.
 3. The command lines are simple, no semicolons, no pipes, no redirections or any other advanced features.
@@ -34,5 +35,5 @@ Clone this repository into your working directory. Files should be compiled with
 
 ## Authors :black_nib:
 
-* Zakari Usman<[Zakaripbh](https://github.com/Zakaripbh)>
-* 
+* Zakari Usman <[Zakaripbh](https://github.com/Zakaripbh)>
+* nathanael Bogale <[natibogale](https://github.com/natibogale)>
