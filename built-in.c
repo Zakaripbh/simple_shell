@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * authors: Zakari Usman and Nathanael Bogale
+ * authors: Zakari Usman and nathanael bogale
  * exit_bul - Exit Statue Shell
  * @cmd: Parsed Command
  * @input: User Input
